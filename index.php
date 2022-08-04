@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Solartec - Renewable Energy Website Template</title>
+    <title>Bienvenidos a su casa ciclista</title>
     <link rel="icon" href="img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
@@ -63,6 +63,62 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO -->
     <!-- *********************************************** -->
+    
+    <div class="container">
+        <div class="row">
+
+            <div align="center" class="col md-12">
+                <H1><b>Bienvenidos a su casa ciclista</b></H1>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Servicios -->
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col md-4">
+                Servicio 1
+            </div>
+
+            <div class="col md-4">
+                Servicio 2
+            </div>
+        
+            <div class="col md-4">
+                Servicio 3
+            </div>
+
+        </div>
+    </div>
+
+              <!-- repuestos y biomecanica -->
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col md-6">
+                Servicio 1
+            </div>
+
+            <div class="col md-6">
+                Servicio 2
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Video -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col md-12">
+                    Video
+            </div>
+        </div>
+    </div>
 
 
     <!-- *********************************************** -->
