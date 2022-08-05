@@ -80,15 +80,15 @@
         <div class="row">
 
             <div class="col md-4">
-                Servicio 1
+                Inspección a tu bicicleta
             </div>
 
             <div class="col md-4">
-                Servicio 2
+                Lavada y lubricación de la cadena y guayas
             </div>
         
             <div class="col md-4">
-                Servicio 3
+                mantenimeinto completo
             </div>
 
         </div>
@@ -100,11 +100,11 @@
         <div class="row">
 
             <div class="col md-6">
-                Servicio 1
+                Repuestos
             </div>
 
             <div class="col md-6">
-                Servicio 2
+                Biomecanica
             </div>
             
         </div>

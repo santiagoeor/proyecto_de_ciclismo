@@ -11,7 +11,7 @@
                 <h5 class="text-white mb-4" align="center">Servicios</h5>
                 <ul align="justify">
                     <li></li>
-                    <li>Te brindamos asesoramiento de los cuidados de la bicicleta</li>
+                    <li>Te brindamos el mejor servicio de mantenimeinto para tu bicicleta</li>
                     <li>Recomendaciones pa una postura sobre la bicleta</li>
                     <li>Te ofrecemos los mejores repuestos y herramientas para tu bicicleta</li>
                     <li></li>
