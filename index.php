@@ -80,15 +80,18 @@
         <div class="row">
 
             <div class="col md-4">
-                Inspección a tu bicicleta
+                <H4>Inspección a tu bicicleta</H4>
+                <img src="img/inspenciondetubicicleta.jpg" class="d-block w-100" alt="..." width="100" height="350">
             </div>
-
+               
             <div class="col md-4">
-                Lavada y lubricación de la cadena y guayas
+                <H4>Lavada y lubricación de la cadena y guayas</H4>
+                <img src="img/mantenimiento.jpg" class="d-block w-100" alt="..." width="100" height="350">
             </div>
         
             <div class="col md-4">
-                mantenimeinto completo
+                <H4>mantenimeinto completo</H4>
+                <img src="img/mantenicompleto.jpg" class="d-block w-100" alt="..." width="100" height="350">
             </div>
 
         </div>
@@ -100,11 +103,13 @@
         <div class="row">
 
             <div class="col md-6">
-                Repuestos
+                <H4>Repuestos</H4>
+                <img src="img/repuestos.jpg" class="d-block w-100" alt="..." width="100" height="350">
             </div>
 
             <div class="col md-6">
-                Biomecanica
+                <H4 align="center">Biomecanica</H4>
+                <img src="img/biomecanica.jpg" class="d-block w-100" alt="..." width="100" height="350">
             </div>
             
         </div>
