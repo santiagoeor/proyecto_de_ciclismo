@@ -119,8 +119,9 @@
 
     <div class="container">
         <div class="row">
-            <div class="col md-12">
-                    Video
+            <div class="col md-12" align="center">
+                <H2>CUIDADOS CON TU BICICLETA</H2>
+            <iframe width="600" height="400" src="https://www.youtube.com/embed/rkcU0tjczvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
