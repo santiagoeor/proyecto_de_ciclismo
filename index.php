@@ -63,7 +63,7 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO -->
     <!-- *********************************************** -->
-    
+
     <div class="container">
         <div class="row">
 
@@ -72,9 +72,9 @@
             </div>
 
         </div>
-    </div>
+    </div> <br> <br>
 
-    <!-- Servicios -->
+    <!-- Servicios crear butones hacia las diferentes paginas web -->
 
     <div class="container">
         <div class="row">
@@ -82,22 +82,29 @@
             <div class="col md-4">
                 <H4>Inspección a tu bicicleta</H4>
                 <img src="img/inspenciondetubicicleta.jpg" class="d-block w-100" alt="..." width="100" height="350">
+                <a href="mantenimiento.php"
+                    class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
             </div>
-               
+
             <div class="col md-4">
-                <H4>Lavada y lubricación de la cadena y guayas</H4>
+                <!-- Lavada y lubricación de la cadena y guayas -->
+                <H4>Mantenimeiento basico</H4>
                 <img src="img/mantenimiento.jpg" class="d-block w-100" alt="..." width="100" height="350">
+                <a href="mantenimiento.php"
+                    class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
             </div>
-        
+
             <div class="col md-4">
-                <H4>mantenimeinto completo</H4>
+                <H4>Mantenimeiento completo</H4>
                 <img src="img/mantenicompleto.jpg" class="d-block w-100" alt="..." width="100" height="350">
+                <a href="mantenimiento.php"
+                    class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
             </div>
 
         </div>
-    </div>
+    </div><br><br>
 
-              <!-- repuestos y biomecanica -->
+    <!-- repuestos y biomecanica -->
 
     <div class="container">
         <div class="row">
@@ -105,15 +112,19 @@
             <div class="col md-6">
                 <H4>Repuestos</H4>
                 <img src="img/repuestos.jpg" class="d-block w-100" alt="..." width="100" height="350">
+                <a href="repuestos_herramientas.php"
+                    class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
             </div>
 
             <div class="col md-6">
                 <H4 align="center">Biomecanica</H4>
                 <img src="img/biomecanica.jpg" class="d-block w-100" alt="..." width="100" height="350">
+                <a href="biomecanica.php"
+                    class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
             </div>
-            
+
         </div>
-    </div>
+    </div> <br> <br>
 
     <!-- Video -->
 
@@ -121,10 +132,15 @@
         <div class="row">
             <div class="col md-12" align="center">
                 <H2>CUIDADOS CON TU BICICLETA</H2>
-            <iframe width="600" height="400" src="https://www.youtube.com/embed/rkcU0tjczvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="600" height="400" src="https://www.youtube.com/embed/rkcU0tjczvc"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </div>
         </div>
     </div>
+
+
 
 
     <!-- *********************************************** -->
