@@ -7,7 +7,19 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
-           <!--cuando se sube al file manager solo es ../index.php y listo y hay coge las paginas --> 
+           <!--cuando se sube al file manager solo es ../index.php y listo y hay coge las paginas 
+            el codigo de abajo ⬇ solo se habilita cuando se suba a producción
+           --> 
+               
+           <!-- 
+            <a href="../../../ciclismo/index.php" class="nav-item nav-link active">Home</a>
+            <a href="../../../ciclismo/mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
+            <a href="../../../ciclismo/repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
+            <a href="../../../ciclismo/biomecanica.php" class="nav-item nav-link">Biomecanica</a>
+            --> 
+            
+             <!-- y este ⬇ se habilita en el servidor local -->
+
             <a href="../../../ciclismo/index.php" class="nav-item nav-link active">Home</a>
             <a href="../../../ciclismo/mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
             <a href="../../../ciclismo/repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
