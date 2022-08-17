@@ -88,14 +88,14 @@
 
             <div class="col md-4">
                 <!-- Lavada y lubricación de la cadena y guayas -->
-                <H4>Mantenimeiento basico</H4>
+                <H4>Mantenimiento basico</H4>
                 <img src="img/mantenimiento.jpg" class="d-block w-100" alt="..." width="100" height="350">
                 <a href="mantenimiento.php"
                     class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
             </div>
 
             <div class="col md-4">
-                <H4>Mantenimeiento completo</H4>
+                <H4>Mantenimiento completo</H4>
                 <img src="img/mantenicompleto.jpg" class="d-block w-100" alt="..." width="100" height="350">
                 <a href="mantenimiento.php"
                     class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
@@ -131,7 +131,7 @@
     <div class="container">
         <div class="row">
             <div class="col md-12" align="center">
-                <H2>CUIDADOS CON TU BICICLETA</H2>
+                <H3>CUIDADOS CON TU BICICLETA</H3>
                 <iframe width="600" height="400" src="https://www.youtube.com/embed/rkcU0tjczvc"
                     title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

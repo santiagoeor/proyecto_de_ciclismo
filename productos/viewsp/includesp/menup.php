@@ -7,10 +7,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
-            <a href="index.php" class="nav-item nav-link active">Home</a>
-            <a href="mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
-            <a href="repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
-            <a href="biomecanica.php" class="nav-item nav-link">Biomecanica</a>
+            <a href="../../../ciclismo/index.php" class="nav-item nav-link active">Home</a>
+            <a href="../../../ciclismo/mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
+            <a href="../../../ciclismo/repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
+            <a href="../../../ciclismo/biomecanica.php" class="nav-item nav-link">Biomecanica</a>
 
 <!--  codigo del menu
             <div class="nav-item dropdown">
