@@ -54,16 +54,38 @@
     <!-- Navbar End -->
 
 
-    <!-- Carousel Start -->
-    <?php 
+    <!-- Carousel Start 
+    
     include "views/includes/slider.php";
-?>
-    <!-- Carousel End -->
+
+     Carousel End -->
 
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO -->
     <!-- *********************************************** -->
+    <div class="container">
+        <div class="row">
+            <div class="col md-12" align="center">
+                <H2>Inspección a tu bicicleta</H2>   
+            </div>
+        </div>
+    </div>    
 
+    <div class="container">
+        <div class="row">
+            <div class="col md-12" align="center">
+                <H2>Mantenimiento basico</H2>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col md-12" align="center">
+                <H2>Mantenimiento completo</H2>
+            </div>
+        </div>
+    </div>
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO -->

@@ -67,6 +67,9 @@
     
     <a href="productos/inflador.php"
                     class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles inflador</a>
+
+    <a href="productos/metodos_de_pago.php"
+                    class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Metodo de pago</a>
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO -->
     <!-- *********************************************** -->

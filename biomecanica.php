@@ -54,11 +54,11 @@
     <!-- Navbar End -->
 
 
-    <!-- Carousel Start -->
-    <?php 
+    <!-- Carousel Start 
+    
     include "views/includes/slider.php";
-?>
-    <!-- Carousel End -->
+
+     Carousel End -->
 
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO -->
