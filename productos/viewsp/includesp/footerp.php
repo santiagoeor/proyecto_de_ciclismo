@@ -12,7 +12,7 @@
                 
                 <!-- y este ⬇ se habilita en el servidor local -->
 
-                <img src="../../../ciclismo/img/logo.png" class="d-block w-100" alt="..." width="300" height="90"><br>
+                <img src="../../../proyecto_de_ciclismo/img/logo.png" class="d-block w-100" alt="..." width="300" height="90"><br>
 
                 <h5 class="text-white mb-4">Servicios Bici</h5>
                 <a href="contactos.php" class="nav-item nav-link">Contactos</a>

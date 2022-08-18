@@ -12,18 +12,18 @@
            --> 
                
            <!-- 
-            <a href="../../../ciclismo/index.php" class="nav-item nav-link active">Home</a>
-            <a href="../../../ciclismo/mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
-            <a href="../../../ciclismo/repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
-            <a href="../../../ciclismo/biomecanica.php" class="nav-item nav-link">Biomecanica</a>
+            <a href="../../../index.php" class="nav-item nav-link active">Home</a>
+            <a href="../../../mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
+            <a href="../../../repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
+            <a href="../../../biomecanica.php" class="nav-item nav-link">Biomecanica</a>
             --> 
             
              <!-- y este ⬇ se habilita en el servidor local -->
 
-            <a href="../../../ciclismo/index.php" class="nav-item nav-link active">Home</a>
-            <a href="../../../ciclismo/mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
-            <a href="../../../ciclismo/repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
-            <a href="../../../ciclismo/biomecanica.php" class="nav-item nav-link">Biomecanica</a>
+            <a href="../../../proyecto_de_ciclismo/index.php" class="nav-item nav-link active">Home</a>
+            <a href="../../../proyecto_de_ciclismo/mantenimiento.php" class="nav-item nav-link">Servicio de mantenimiento</a>
+            <a href="../../../proyecto_de_ciclismo/repuestos_herramientas.php" class="nav-item nav-link">Repuestos</a>
+            <a href="../../../proyecto_de_ciclismo/biomecanica.php" class="nav-item nav-link">Biomecanica</a>
 
 <!--  codigo del menu
             <div class="nav-item dropdown">
